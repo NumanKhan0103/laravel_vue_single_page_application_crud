@@ -7,4 +7,8 @@
         <router-link to="/contact">Contact</router-link>
     </nav>
 
+
+    <div>
+        <router-view></router-view>
+    </div>
 </template>
